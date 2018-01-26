@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Dhanush</title>
+<title>Hanuman</title>
 </head>
 <body>
 	<h1>new app!</h1>
