@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>hello!</title>
+<title>new world</title>
 </head>
 <body>
 	<h1>new app!</h1>
